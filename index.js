@@ -1,1 +1,1 @@
-let names = [ "kar", "var", "bar", "far"];
+const names = [ "karim", "valerie", "baria", "farida"];
